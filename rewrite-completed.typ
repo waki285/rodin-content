@@ -52,7 +52,7 @@ And a *bold* and _italic_ #underline("markers") (left as #strike("plain") text f
 #lorem(10)
 
 #figure(
-  image("/static/images/sample.png", alt: "Make it a Quote Image", width: 60%),
+  img("/assets/images/sample.png", alt: "Make it a Quote Image", width: "393", height: "206", lazy: true),
   caption: [テスト画像]
 ) <ddd>
 
