@@ -1,6 +1,7 @@
 //: title: プロフィール
 //: date: 2025-11-27
 //: updated: 2025-11-27
+//: breadcrumbs: home
 
 #import "../static/preamble.typ": *
 
