@@ -1,7 +1,7 @@
 //: title: ブログを Rust + Leptos + Typst で書き直した話
 //: subtitle: 徒然なるままに
 //: genre: バックエンド
-//: tags: rust, typst, leptos
+//: tags: rust, typst, leptos, backend
 //: date: 2025-11-27
 //: updated: 2025-12-01
 //: breadcrumbs: home, blog, tech, backend

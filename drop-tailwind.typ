@@ -1,7 +1,7 @@
 //: title: Tailwind 使うのやめた
 //: subtitle: いまだに CSS の高速化の最適解がわからない
 //: genre: フロントエンド
-//: tags: rust, typst, leptos
+//: tags: css, tailwind, frontend
 //: date: 2025-11-27
 //: updated: 2025-11-27
 //: breadcrumbs: home, blog, tech, frontend
