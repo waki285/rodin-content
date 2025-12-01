@@ -2,8 +2,8 @@
 //: subtitle: いまだに CSS の高速化の最適解がわからない
 //: genre: フロントエンド
 //: tags: css, tailwind, frontend
-//: date: 2025-11-27
-//: updated: 2025-11-27
+//: date: 2025-12-01
+//: updated: 2025-12-01
 //: breadcrumbs: home, blog, tech, frontend
 //: meta>description: ブログで Tailwind CSS を使うのをやめました。分割することに効果は (多分) あります
 //: meta>keywords: Tailwind, Tailwind CSS, CSS, FCP, ブログ, ウェブ開発
