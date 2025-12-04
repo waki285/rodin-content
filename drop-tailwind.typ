@@ -3,7 +3,7 @@
 //: genre: フロントエンド
 //: tags: css, tailwind, frontend
 //: date: 2025-12-01
-//: updated: 2025-12-01
+//: updated: 2025-12-05
 //: breadcrumbs: home, blog, tech, frontend
 //: meta>description: ブログで Tailwind CSS を使うのをやめました。分割することに効果は (多分) あります
 //: meta>keywords: Tailwind, Tailwind CSS, CSS, FCP, ブログ, ウェブ開発
@@ -48,4 +48,4 @@ links.forEach(l => {
 
 = 効果
 
-Lighthouse で FCP と LCP のスコアが改善しました...はず。実行前のスコアを忘れたのでわからない。
+Lighthouse で FCP と LCP のスコアが改善した...はず。実行前のスコアを忘れたのでわからない。
