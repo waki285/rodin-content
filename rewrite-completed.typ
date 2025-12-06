@@ -116,3 +116,14 @@ $ limits(sum)_(k = 0)^n a r^k
   注意メッセージです。\
   aaaaaaaaaaa
 ]
+
+#twitterembed(
+  url: "https://twitter.com/catnose99/status/1996798476789874895",
+  author: "catnose (@catnose99)",
+  date: "2025年12月5日",
+  lang: "ja"
+)[
+  これ#linebreak()
+  作者不明のブラウザ拡張機能は入れない方がいい#linebreak()#linebreak()
+  フル権限を許可した場合、フォームに入力されたパスワード / クレカ番号までこっそり外部に送信される可能性がある #link("https://t.co/f8ogXxNmOw")[https://t.co/f8ogXxNmOw]
+]
