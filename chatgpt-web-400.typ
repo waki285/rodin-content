@@ -26,7 +26,7 @@
 
 = なぜこうなったのか
 
-もともと `.typ` や `.md` でアクセスしたときの Content-Type ヘッダは #link("https://www.iana.org/assignments/media-types/media-types.xhtml")[IANA Media Types]に基づき、、#ghlink("/src/app.rs#L254", branch = "911bc977a8a5cd00c2543ab55cc0b85823d83196")[`text/vnd.typst; charset=utf-8` や `text/markdown; charset=utf-8`] となっていました。
+もともと `.typ` や `.md` でアクセスしたときの Content-Type ヘッダは #link("https://www.iana.org/assignments/media-types/media-types.xhtml")[IANA Media Types]に基づき、、#ghlink("/src/app.rs#L254", branch: "911bc977a8a5cd00c2543ab55cc0b85823d83196")[`text/vnd.typst; charset=utf-8` や `text/markdown; charset=utf-8`] となっていました。
 
 しかしどうやら ChatGPT のウェブ検索は、Content-Type ヘッダが `text/html` や `text/plain` などの一般的なものでないと 400 エラーになるようです。\
 IANA Media Types に登録されている正しい Content-Type ヘッダを返しているのに 400 エラーになるのは納得がいかないのですが、とりあえず ChatGPT に記事を読ませるためには仕方がないので、AI クローラーかどうかを User-Agent で判定して、AI が `.typ` や `.md` でアクセスしたときの Content-Type ヘッダを `text/plain; charset=utf-8` に#link("https://github.com/waki285/rodin/commit/318fde17e9c9e90b3131800413afb1348bf7b964")[変更しました]。
