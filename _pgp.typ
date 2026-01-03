@@ -4,7 +4,7 @@
 //: meta>description: すずねーう (Waki285) の PGP 公開鍵とフィンガープリントを掲載します。
 //: breadcrumbs: home, profile
 
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 鍵 ID やフィンガープリント、公開鍵データをこのページで確認できます。
 

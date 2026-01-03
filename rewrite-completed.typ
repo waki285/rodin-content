@@ -8,7 +8,7 @@
 //: meta>description: Rust と Leptos、Typst を使ってブログを書き直しました。自分以外には扱えなくなってしまった気がします
 //: meta>keywords: Rust, Leptos, Typst, ブログ, ウェブ開発
 
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 サイトを書き直しました
 

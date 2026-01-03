@@ -5,10 +5,10 @@
 //: date: 2026-01-02
 //: updated: 2026-01-02
 //: breadcrumbs: home, blog, ai, chatgpt
-//: meta>description: ChatGPT がウェブ検索を行うとき、Content-Type ヘッダが普通じゃないものだと「400 エラーになった」と言ってくる現象を確認しました。
+//: meta>description: ChatGPT がウェブ検索を行うとき、Content-Type ヘッダが普通じゃないものだと「400 エラーになった」と言ってくる現象を確認しました
 //: meta>keywords: ChatGPT, AI, Content-Type, 400エラー, ウェブ検索
 
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 何この挙動？
 

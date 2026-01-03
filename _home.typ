@@ -1,5 +1,5 @@
 // Home content (no frontmatter)
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 = ようこそ
 

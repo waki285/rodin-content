@@ -8,7 +8,7 @@
 //: meta>description: ブログで Tailwind CSS を使うのをやめました。分割することに効果は (多分) あります
 //: meta>keywords: Tailwind, Tailwind CSS, CSS, FCP, ブログ, ウェブ開発
 
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 ブログで Tailwind CSS を使うのをやめました
 

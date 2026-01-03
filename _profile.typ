@@ -3,7 +3,7 @@
 //: updated: 2025-12-01
 //: breadcrumbs: home
 
-#import "../static/preamble.typ": *
+#import "_preamble.typ": *
 
 #toc()
 
